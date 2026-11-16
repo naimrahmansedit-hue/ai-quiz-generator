@@ -114,3 +114,17 @@ ai-quiz-generator/
 - Faster, less manual revision for students, with immediate quiz scores.
 - A clear record of learning progress that helps students find and
   improve their weak areas.
+## Software Requirements & Design Documentation
+
+The following documents describe the planned requirements and design of the AI Quiz Generator & Smart Study Assistant.
+
+- [Software Requirements Specification (SRS)](docs/CSE4104-7E-T03_SRS.pdf)
+- [Use Case Diagram](docs/CSE4104-7E-T03_UseCaseDiagram.pdf)
+- [ER Diagram](docs/CSE4104-7E-T03_ERDiagram.pdf)
+- [System Architecture Diagram](docs/CSE4104-7E-T03_ArchitectureDiagram.pdf)
+
+**Project Status:** Planning and Requirements Specification
+
+**Course:** CSE 4104 - Software Development III
+
+**Team:** CSE4104-7E-T03
